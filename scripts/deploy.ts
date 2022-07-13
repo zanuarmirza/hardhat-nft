@@ -4,7 +4,7 @@
 // When running the script with `npx hardhat run <script>` you'll find the Hardhat
 // Runtime Environment's members available in the global scope.
 import { ethers } from "hardhat";
-import { BASE_URI, TOKEN_NAME, TOKEN_SYMBOL, PRICE } from "./config";
+import { BASE_URI, TOKEN_NAME, TOKEN_SYMBOL, PRICE } from "../config";
 
 async function main() {
   // Hardhat always runs the compile task when running scripts with its command

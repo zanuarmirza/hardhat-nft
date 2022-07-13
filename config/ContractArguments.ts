@@ -1,0 +1,2 @@
+import { BASE_URI, TOKEN_NAME, TOKEN_SYMBOL, PRICE } from ".";
+export default [BASE_URI, PRICE, TOKEN_NAME, TOKEN_SYMBOL];
